@@ -22,7 +22,7 @@
 
 ```lua
 iUnknownBr@GitHub
-▔▔▔▔▔▔▔▔
+▔▔▔▔▔▔▔▔▔
 OS: Windows 10 x64
 Shell: Windows Terminal
 Pronouns: Ele/Dele
