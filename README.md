@@ -27,8 +27,8 @@ OS: Windows 10 x64
 Shell: Windows Terminal
 Pronouns: Ele/Dele
 Location: Brasil, SP
-Learning: JavaScript, HTML
-Languages: Python, Lua, Java, Php, C#, C++, Rust, 
+Learning: HTML, CSS
+Languages: Python, Lua, Java, Php, C#, C++, Rust, JavaScript.
 Hobbies: Cheating in Games, Sleep, Programming, video editing
 ```
 
