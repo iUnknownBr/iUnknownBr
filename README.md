@@ -45,7 +45,6 @@ Hobbies: Cheating in Games, Sleep, Programming, video editing
 
 <br>
 <p align="center">
-    <a href="#"><img src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&host=formatted-dynamic-badges.herokuapp.com&formatter=metric&style=for-the-badge&color=55960c&labelColor=%23488207&label=stars&query=%24.stars&url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%Darkdmod3"/></a>
     <a href="#"><img src="https://komarev.com/ghpvc/?username=iUnknownBr&style=for-the-badge&label=Views:&color=gray"/></a>
     <a href="#"><img src="https://custom-icon-badges.herokuapp.com/github/followers/iUnknownBr?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follows&logoColor=white"/></a>
 </p>
